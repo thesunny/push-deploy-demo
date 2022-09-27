@@ -27,10 +27,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@thesunny/push-deploy@^0.1.26":
-  version "0.1.26"
-  resolved "https://registry.yarnpkg.com/@thesunny/push-deploy/-/push-deploy-0.1.26.tgz#02e8804ec2c40be2cc7d9857f53a0fc72c2d788c"
-  integrity sha512-UFD/MxqCkqKxajFY56AY4pxQtp63e+FVqHMG6D+wAbbTYrY2B8HzLlaOggXB0JkPgcmdfqVpmpw4zdKBIg10+w==
+"@thesunny/push-deploy@^0.1.27":
+  version "0.1.27"
+  resolved "https://registry.yarnpkg.com/@thesunny/push-deploy/-/push-deploy-0.1.27.tgz#446873ba109c421bc8c4cfd0b40bca5eada165cd"
+  integrity sha512-3YLOvdlA9QsQAv0DO3/Z00pwvv0DnaqlpC45bEWHMAIUNSXTOVpxAoicFnQUPYcQtz+IkLBLBdgOIYBCcdzf0Q==
   dependencies:
     chalk "^4.1.2"
 
