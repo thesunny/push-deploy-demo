@@ -5,7 +5,7 @@
   "author": "Sunny Hirai <thesunny@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@thesunny/push-deploy": "^0.1.9",
+    "@thesunny/push-deploy": "^0.1.26",
     "@types/node": "^18.7.23",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.1.0",
@@ -14,6 +14,8 @@
   "scripts": {
     "-- preset": "# Run preset from @thesunny/presets",
     "preset": "ts-node --project node_modules/@thesunny/presets/tsconfig.ts-node.json node_modules/@thesunny/presets/bin/index.ts",
+    "-- deploy": "# deploy",
+    "deploy:production": "push-deploy main production",
     "-- end": "# end"
   }
 }
